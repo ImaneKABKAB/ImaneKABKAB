@@ -2,7 +2,7 @@
 <h3 align="center">A passionate DevOps learner</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ImaneKABKAB](https://github.com/ImaneKABKAB)
-- 📫 How to reach me kabkabimane22@gmail.com or ikabkab13@gmail.com
+- 📫 How to reach me kabkabimane22@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
